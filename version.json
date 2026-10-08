@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "notes": "Primera version publicada: TikTok, notas manuales, bot de Telegram y sin acceso con Google",
+  "min_runtime": "1.1.0",
+  "code": {
+    "url": "https://github.com/josepeyra/notas-podcast-releases/releases/download/v1.1.0/notas-podcast-1.1.0-code.zip",
+    "sha256": "72d0aff2d9c81a521189dc921dc3ecf9fe3fb7f837014355c7d8b489c2e2f592"
+  },
+  "installers": {
+    "windows": "https://github.com/josepeyra/notas-podcast-releases/releases/tag/v1.1.0",
+    "macos": "https://github.com/josepeyra/notas-podcast-releases/releases/tag/v1.1.0"
+  }
+}
